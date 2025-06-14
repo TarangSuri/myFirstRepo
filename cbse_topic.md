@@ -10,5 +10,5 @@ In CBSE Class 10 Science, the chapter "Carbon and its Compounds" explores the ve
 - **Functional Groups**: Various functional groups impart specific properties to carbon compounds, crucial for classifying organic compounds.
 - **Chemical Properties**: Carbon compounds undergo reactions such as combustion, oxidation, and substitution, important for their chemical characterization.
 
-![Lewis Dot Structure of Carbon Compounds](C:\Users\taran\PycharmProjects\crew_ai\carbon_and_its_compounds.png)
+![Lewis Dot Structure of Carbon Compounds](carbon_and_its_compounds.png)
 ```
